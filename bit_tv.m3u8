@@ -1,0 +1,139 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="MAASRANGA TV HD" tvg-logo="https://sunplex.net/iptv/logo/maasranga-tv.jpg" group-title="Bangla",MAASRANGA TV HD
+http://live.flixhub.net/hls/masranga.m3u8
+
+#EXTINF:-1 tvg-name="Movies BANGLA " tvg-logo="https://yt3.ggpht.com/a/AGF-l78pOagrG0WEV9RYM_jDCy_2Qir1aZ1nZLw6hw=s240-c-k-c0xffffffff-no-rj-mo" group-title="Bangla",Movies BANGLA HD
+http://alvetv.com/moviebanglatv/8080/index.m3u8
+
+#EXTINF:-1 tvg-name="Shobuy" tvg-logo="https://sunplex.net/iptv/logo/gtv-hd-fifa-2022.jpg" group-title="Bangla",Shobuy HD
+http://alvetv.com/mbtv/sptv/index.m3u8
+
+#EXTINF:-1 tvg-name="GAZI TV HD" tvg-logo="https://sunplex.net/iptv/logo/gtv-hd-fifa-2022.jpg" group-title="Bangla",GAZI TV HD
+http://live.flixhub.net/hls/Gazi-TV.m3u8
+
+#EXTINF:-1 tvg-name="SOMOY TV" tvg-logo="https://sunplex.net/iptv/logo/somoy-tv.jpg" group-title="Bangla",SOMOY TV
+http://live.flixhub.net/hls/somoy.m3u8
+
+#EXTINF:-1 tvg-name="EKATTOR TV HD" tvg-logo="https://sunplex.net/iptv/logo/ekattor-tv.jpg" group-title="Bangla",EKATTOR TV HD
+http://live.flixhub.net/hls/71.m3u8
+
+#EXTINF:-1 tvg-name="CHANNEL I HD" tvg-logo="https://sunplex.net/iptv/logo/channel-i.jpg" group-title="Bangla",CHANNEL I HD
+http://live.flixhub.net/hls/channeli.m3u8
+
+#EXTINF:-1 tvg-name="INDEPENDENT TV" tvg-logo="https://sunplex.net/iptv/logo/independent-tv.jpg" group-title="Bangla",INDEPENDENT TV
+http://live.flixhub.net/hls/indepen.m3u8
+
+
+#EXTINF:-1 tvg-name="Star Jalsha" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/st-ak/yupptv/og_image/star_jalsha.jpg" group-title="Indian",ZEE BANGLA
+http://live.flixhub.net/hls/starjalsha.m3u8
+
+#EXTINF:-1 tvg-name="Jalsha Movies" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/61/Jalsha_Movies.png/revision/latest?cb=20190810163545" group-title="Indian",Jalsha Movies
+http://live.flixhub.net/hls/jalshamovies.m3u8
+
+#EXTINF:-1 tvg-name="ZEE BANGLA" tvg-logo="https://sunplex.net/iptv/logo/zee-bangla.jpg" group-title="Indian",ZEE BANGLA
+http://live.flixhub.net/hls/zeebanglahd.m3u8
+
+#EXTINF:-1 tvg-name="ZEE BANGLA Cinema" tvg-logo="https://zeebanglacinema.com/images/logo1-200x85.png" group-title="Indian",ZEE BANGLA Cinema
+http://live.flixhub.net/hls/zee-bangla-cinema.m3u8
+
+#EXTINF:-1 tvg-name="Color BANGLA Cinema" tvg-logo="https://www.medianews4u.com/wp-content/uploads/2023/06/Colors-Bangla-Cinema-introduces-new-brand-identity.jpg" group-title="Indian",Color BANGLA
+http://live.flixhub.net/hls/colore-bangla-cinema.m3u8
+
+#EXTINF:-1 tvg-name="SONY AATH" tvg-logo="https://sunplex.net/iptv/logo/sony-aath.jpg" group-title="Indian",SONY AATH
+http://live.flixhub.net/hls/Sony_Aath.m3u8
+
+#EXTINF:-1 tvg-name="Shongit Bangla" tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/b/b5/Sangeet_Bangla_logo_with_slogan_2006.png/revision/latest?cb=20210508022210" group-title="Indian",Shongit Bangla
+http://live.flixhub.net/hls/sangeetbangla.m3u8
+
+#EXTINF:-1 tvg-name="Enter10 Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/ea/Enterr10_Bangla.jpeg" group-title="Indian",Enter10 Bangla
+http://live.flixhub.net/hls/enterr10.m3u8
+
+#EXTINF:-1 tvg-name="TRAVEL XP" tvg-logo="https://sunplex.net/iptv/logo/TRAVELXP.jpg" group-title="English",TRAVEL XP
+http://live.flixhub.net/hls/travelxp.m3u8
+
+#EXTINF:-1 tvg-name="DISCOVERY" tvg-logo="https://sunplex.net/iptv/logo/DISCOVERY.jpg" group-title="English",DISCOVERY
+http://live.flixhub.net/hls/tvprogram/DISCOVERY/playlist.m3u8
+
+#EXTINF:-1 tvg-name="AXN HD" tvg-logo="https://sunplex.net/iptv/logo/AXN.jpg" group-title="English",AXN HD
+http://live.flixhub.net/hls/tvprogram/AXN-HD/playlist.m3u8
+
+#EXTINF:-1 tvg-name="HBO" tvg-logo="https://sunplex.net/iptv/logo/HBO.jpg" group-title="English",HBO
+http://live.flixhub.net/hls/tvprogram/HBO/playlist.m3u8
+
+#EXTINF:-1 tvg-name="SONY HD" tvg-logo="https://sunplex.net/iptv/logo/sony-hd.jpg" group-title="Hindi",SONY HD
+http://live.flixhub.net/hls/sonyen.m3u8
+
+#EXTINF:-1 tvg-name="SETMAX HD" tvg-logo="https://sunplex.net/iptv/logo/set-max-hd.jpg" group-title="Hindi",SETMAX HD
+http://live.flixhub.net/hls/sony-maxhd.m3u8
+
+#EXTINF:-1 tvg-name="SONY PIX HD" tvg-logo="https://sunplex.net/iptv/logo/sony-pix-hd.jpg" group-title="",SONY PIX HD
+http://live.flixhub.net/hls/tvprogram/SONY-PIXHD/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Sports Live" tvg-logo="https://sunplex.net/iptv/logo/SPORTS-LIVE.jpg" group-title="",Sports Live
+http://live.flixhub.net/hls/SPORTS-LIVE/index.m3u8
+
+#EXTINF:-1 tvg-name="SONY Sports Ten 1 HD" tvg-logo="https://sunplex.net/iptv/logo/sony-ten-1.jpg" group-title="Sports",SONY Sports Ten 1 HD
+http://live.flixhub.net/hls/sonyten1.m3u8
+
+#EXTINF:-1 tvg-name="SONY Sports Ten 2 HD" tvg-logo="https://sunplex.net/iptv/logo/sony-ten-2-hd.jpg" group-title="Sports",SONY Sports Ten 2 HD
+http://live.flixhub.net/hls/sonyten2.m3u8
+
+#EXTINF:-1 tvg-name="SONY Sports Ten 3 HD" tvg-logo="https://sunplex.net/iptv/logo/sony-ten-3-hd.jpg" group-title="Sports",SONY Sports Ten 3 HD
+http://live.flixhub.net/hls/sonyten3.m3u8
+
+#EXTINF:-1 tvg-name="SONY Sports Ten 5 HD" tvg-logo="https://sunplex.net/iptv/logo/sony-six-hd.jpg" group-title="Sports",SONY Sports Ten 5 HD
+http://live.flixhub.net/hls/sonysix.m3u8
+
+#EXTINF:-1 tvg-name="Skynet Sports HD3" tvg-logo="https://sunplex.net/iptv/logo/skynet-sports-hd.jpg" group-title="Sports",Skynet Sports HD3
+http://live.flixhub.net/hls/starsports3.m3u8
+
+#EXTINF:-1 tvg-name="Skynet Sports 1" tvg-logo="https://sunplex.net/iptv/logo/skynet-sports-1.jpg" group-title="Sports",Skynet Sports 1
+http://live.flixhub.net/hls/stersports1hd.m3u8
+
+#EXTINF:-1 tvg-name="Skynet Sports 2" tvg-logo="https://sunplex.net/iptv/logo/skynet-sports-2.jpg" group-title="Sports",Skynet Sports 2
+http://live.flixhub.net/hls/starsports2.m3u8
+
+#EXTINF:-1 tvg-name="Star Sports Select 1 HD" tvg-logo="https://sunplex.net/iptv/logo/select-1-hd.jpg" group-title="Sports",Star Sports Select 1 HD
+http://live.flixhub.net/hls/Star_Sport_Select1HD.m3u8
+
+#EXTINF:-1 tvg-name="Rock Action" tvg-logo="https://sunplex.net/iptv/logo/rock-action.jpg" group-title="",Rock Action
+http://live.flixhub.net/hls/tvprogram/SKY-NET-6/playlist.m3u8
+
+#EXTINF:-1 tvg-name="SONY MAX 2" tvg-logo="https://sunplex.net/iptv/logo/sony-max-2.jpg" group-title="",SONY MAX 2
+http://live.flixhub.net/hls/tvprogram/SONY-MAX2/playlist.m3u8
+
+#EXTINF:-1 tvg-name="SONY SAB HD" tvg-logo="https://sunplex.net/iptv/logo/sony-sab-hd.jpg" group-title="",SONY SAB HD
+http://live.flixhub.net/hls/tvprogram/SONY-SUBHD/playlist.m3u8
+
+#EXTINF:-1 tvg-name="BBC Lifestyle" tvg-logo="https://sunplex.net/iptv/logo/BBC-Lifestyle.jpg" group-title="",BBC Lifestyle
+http://live.flixhub.net/hls/tvprogram/BBC-Lifestyle/playlist.m3u8
+
+#EXTINF:-1 tvg-name="DD BANGLA" tvg-logo="https://sunplex.net/iptv/logo/dd-bangla.jpg" group-title="",DD BANGLA
+http://live.flixhub.net/hls/tvprogram/DD-BANGLA/playlist.m3u8
+
+#EXTINF:-1 tvg-name="BBC WORLD NEWS" tvg-logo="https://sunplex.net/iptv/logo/bbc-world-news.jpg" group-title="",BBC WORLD NEWS
+http://live.flixhub.net/hls/tvprogram/BBC-WORLD/playlist.m3u8
+
+#EXTINF:-1 tvg-name="ALJAZEERA HD" tvg-logo="https://sunplex.net/iptv/logo/aljazeera.jpg" group-title="",Aljazeera HD
+http://live.flixhub.net/hls/tvprogram/Aljazeera-HD/playlist.m3u8
+
+#EXTINF:-1 tvg-name="CNN" tvg-logo="https://sunplex.net/iptv/logo/CNN.jpg" group-title="",CNN
+http://live.flixhub.net/hls/tvprogram/CNN/playlist.m3u8
+
+#EXTINF:-1 tvg-name="BBC EARTH HD" tvg-logo="https://sunplex.net/iptv/logo/BBC-EARTH.jpg" group-title="",BBC EARTH HD
+http://live.flixhub.net/hls/bbcearth.m3u8
+
+#EXTINF:-1 tvg-name="DURONTO TV" tvg-logo="https://sunplex.net/iptv/logo/duronto-tv.jpg" group-title="Bangla",DURONTO TV
+http://live.flixhub.net/hls/tvprogram/Duronto-TV/playlist.m3u8
+
+#EXTINF:-1 tvg-name="CBeebies" tvg-logo="https://sunplex.net/iptv/logo/CBeebies.jpg" group-title="",CBeebies
+http://live.flixhub.net/hls/tvprogram/CBeebies/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Animax" tvg-logo="https://sunplex.net/iptv/logo/Animax.jpg" group-title="",Animax
+http://live.flixhub.net/hls/tvprogram/Animax/playlist.m3u8
+
+#EXTINF:-1 tvg-name="GAAN BANGLA" tvg-logo="https://sunplex.net/iptv/logo/gaan-bangla.jpg" group-title="Bangla",GAAN BANGLA
+http://live.flixhub.net/hls/tvprogram/Gaan-Bangla/playlist.m3u8
+
+#EXTINF:-1 tvg-name="DW" tvg-logo="https://sunplex.net/iptv/logo/dw.jpg" group-title="",DW
+http://live.flixhub.net/hls/tvprogram/DW-HD/playlist.m3u8
